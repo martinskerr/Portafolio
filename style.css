@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap');
+
+*{
+
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+
+header{
+  padding: 30px;
+}
+
+#seccion2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
