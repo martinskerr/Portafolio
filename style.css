@@ -12,10 +12,16 @@ header{
   padding: 30px;
 }
 
-#seccion2{
+header{
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  position: fixed;
+  width: 100%;
+  background-color: white;
+  z-index: 999;
 
+
+}
+
+.seccion3 .seccion4 {
+  z-index: 1;
 }
